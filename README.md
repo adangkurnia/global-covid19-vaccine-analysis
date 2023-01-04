@@ -16,4 +16,4 @@ There is nothing to be done about data cleaning because everything is already va
 - There are 2681355226 people who have got booster vaccine. It is 34% of the population
 
 #	Data Viz
-After exploring the data, I then visualized it on Google Data Studio. Checkout the full project Tableau Public version [here](https://public.tableau.com/views/GlobalCovid19Vaccine/GLOBALCOVID-19VACCINETRACKER?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+After exploring the data, I then visualized it on Tableau Public. Checkout the full project Tableau Public version [here](https://public.tableau.com/views/GlobalCovid19Vaccine/GLOBALCOVID-19VACCINETRACKER?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
